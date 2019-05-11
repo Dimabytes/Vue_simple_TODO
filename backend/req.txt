@@ -1,0 +1,7 @@
+Django==2.2.1
+django-cors-headers==2.5.3
+django-ip-restriction==1.1.1
+djangorestframework==3.9.3
+psycopg2==2.8.2
+pytz==2019.1
+sqlparse==0.3.0
