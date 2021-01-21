@@ -6,7 +6,7 @@
 - Python 3.6
 - Django 2.0.7
 - Postgres 10
-- Vue 3.7.0
+- Vue 2
 
 **Install:**
 
